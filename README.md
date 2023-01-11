@@ -46,14 +46,14 @@ The simplest way to get involved would be to clone this repository, add in some 
 
 - Fantastic. There is magic and it is everywhere. Wizards roam the world and creatures have supernatural abilities. Magic permeates everything.
 - Ancient. There are the remains of old, and fallen, empires. Ancient scripts, old coins, and dangers to face before you can get them. Forgotten lore and powerful dangers to avoid.
-- Threes. Maybe it's ideas misunderstood from psychology, maybe it's my fandom of early Star Trek leaking out; but everything should be boil down to the number three. We don't have to have a literal three. Three just needs to be involved.
+- Systems. This is a collection of systems. Systems can be scaled to the needs of their users. Rules indicate misunderstood systems.
 
 ### Example
 
 Take for instance my model of elements. There are eight of them.
 - It is fantastic because this is also how spells are divided. Spells fall into eight categories that align with the elements. Creatures have attacks that align with the elements, planar travel allows you to visit all eight elements.
 - It's ancient because these elemental realms have ancient empires, a diversity of languages, and are the sources of some mostly forgotten scripts.
-- It's three because the eight elements come from a combination of three properties. Earth is blunt, heavy, and immobile but Fire is sharp, light, and mobile; and each of the eight elements are a combination of those properties.
+- It's a system because the eight elements come from a combination of three properties. Earth is blunt, heavy, and immobile but Fire is sharp, light, and mobile; and each of the eight elements are a combination of those properties.
 
 Being able to explain, even in the designer's text, how these ideas are met will probably make it more likely that I will accept your pull request.
 
