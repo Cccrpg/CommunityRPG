@@ -12,10 +12,6 @@
 			<reason>Not found at the S.E. github.</reason>
 		</ignore>
 		<ignore>
-			<code>m-042</code>
-			<reason>Deliberately did not include the S.E. logo.</reason>
-		</ignore>
-		<ignore>
 			<code>m-056</code>
 			<reason>No S.E. author page exists.</reason>
 		</ignore>
